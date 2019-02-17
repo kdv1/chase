@@ -10,7 +10,7 @@ Now game works as follow:\
 &nbsp; &nbsp; &nbsp; &nbsp; For low-level things - minimal port of neslib.\
 &nbsp; &nbsp; &nbsp; &nbsp; For stable fixed 60 fps - vsync
 
-Purpose of this project is to debug P3 and create working demo.\
+Purpose of this project is to debug P3 and create working demo.
 
 Controls (Keyboard):\
 &nbsp; &nbsp; &nbsp; &nbsp; Up: W\
